@@ -16,4 +16,5 @@ theShapes.push(myRetangle)
 for ( let tempShape of theShapes ) {
     console.log(tempShape.getInfo());
     console.log(`The new one!`)
+    console.log(`actually,  testing the commit section`)
 }
